@@ -1,0 +1,7 @@
+flask
+watchdog
+textract
+mitmproxy
+scikit-learn
+# 'pyperclip' is also mentioned for the clipboard, add if you implement that
+# pyperclip 
