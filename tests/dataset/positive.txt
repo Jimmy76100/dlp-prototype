@@ -1,0 +1,8 @@
+pos_0.txt Please use my India PAN: ABCDE1234F. Thank you.
+pos_1.txt Here is a US SSN for testing: part1:123-4
+part2:5-6789. Keep it secret.
+pos_2.txt This is a very long API key: part1: sk_live_aBcDeFgHiJkLmNo 
+part2:PqRsTuVwXyZ1234567890
+pos_3.txt My credit card is part1-4242424 part2-242424242.
+credit card = part1 + part2
+Please charge it for the full amount.
