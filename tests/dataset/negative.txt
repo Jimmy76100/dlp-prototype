@@ -1,0 +1,3 @@
+neg_0.txt This is a normal text file with no sensitive information.
+neg_1.txt The quick brown fox jumps over the lazy dog.
+neg_2.txt Meeting notes: Discuss project timeline and budget.
